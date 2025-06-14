@@ -1,4 +1,4 @@
-Copyright (c) 2021 Christian Daguerre
+Copyright (c) 2025 albert200000
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

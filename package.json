@@ -1,23 +1,23 @@
 {
-  "name": "ide-intelephense",
+  "name": "ide-intelephense-updated",
   "main": "./lib/ide-intelephense",
-  "version": "0.7.0",
+  "version": "0.0.0",
   "description": "PHP language support powered by Intelephense",
   "keywords": [],
   "activationCommands": {},
-  "repository": "https://github.com/cdaguerre/ide-intelephense",
+  "repository": "https://github.com/albert200000/ide-intelephense",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "atom-languageclient": "^1.6.0",
+    "atom-languageclient": "^1.16.1",
     "axios": "^0.21.1",
     "crypto": "^1.0.1",
     "eslint": "^7.23.0",
     "eslint-config-standard": "^16.0.2",
     "fs": "^0.0.1-security",
-    "intelephense": "^1.8.2",
+    "intelephense": "^1.14.4",
     "os": "^0.1.1",
     "path": "^0.12.7",
     "querystring": "^0.2.1"
