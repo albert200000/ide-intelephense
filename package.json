@@ -5,7 +5,7 @@
   "description": "PHP language support powered by Intelephense",
   "keywords": [],
   "activationCommands": {},
-  "repository": "https://github.com/albert200000/ide-intelephense",
+  "repository": "git@github.com:albert200000/ide-intelephense.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
