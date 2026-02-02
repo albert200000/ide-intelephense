@@ -14,8 +14,6 @@
     "atom-languageclient": "^1.16.1",
     "axios": "^0.21.1",
     "crypto": "^1.0.1",
-    "eslint": "^7.23.0",
-    "eslint-config-standard": "^16.0.2",
     "fs": "^0.0.1-security",
     "intelephense": "^1.14.4",
     "os": "^0.1.1",
@@ -103,5 +101,9 @@
         "0.1.0": "provideCodeActions"
       }
     }
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "eslint-config-standard": "^17.1.0"
   }
 }

@@ -1,3 +1,18 @@
 {
-  "extends": ["standard"]
+    "root": true,
+    "env": {
+        "node": true,
+        "commonjs": true,
+        "es6": true
+    },
+    "extends": [
+        "eslint:recommended",
+        "standard"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 2022
+    },
+    "rules": {
+        "max-len": ["error", { "code": 120 }]
+    }
 }
